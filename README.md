@@ -1,13 +1,13 @@
 # Ressources
 
-* [HTML / CSS](#htmlcss)
+* [HTML / CSS](#html/css)
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [PHP](#php)
 * [Articles](#articles)
 
 
-HTML / CSS
+HTML/CSS
 ==========
 
 Javascript
