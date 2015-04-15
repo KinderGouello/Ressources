@@ -36,6 +36,12 @@ jQuery
 PHP
 ===
 
+* Intégration continue
+  * [PHP-CI](https://www.phptesting.org/)
+  * [Travis](https://travis-ci.org/)
+  * [Jenkins](https://jenkins-ci.org/)
+  * [JoliCi](https://github.com/jolicode/JoliCi)
+
 Articles
 ========
 
