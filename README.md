@@ -12,7 +12,7 @@ HTML / CSS
 
 Javascript
 ==========
-* [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/){:target="_blank"}
+* [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
 
 
 jQuery
