@@ -12,7 +12,8 @@ HTML / CSS
 
 Javascript
 ==========
-* [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
+* Drag and Drop
+  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
 
 
 jQuery
