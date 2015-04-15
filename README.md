@@ -12,9 +12,14 @@ HTML / CSS
 
 Javascript
 ==========
-* Drag and Drop
-  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
+* Dépendances
+ * [Browserify](http://browserify.org/)
 
+* Drag and Drop
+ * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
+
+* SQL
+ * [Knex.js - SQL query builder](http://knexjs.org/)
 
 jQuery
 ======
