@@ -21,6 +21,9 @@ Javascript
 * Frameworks
  * [T3 - Framework minimaliste](http://t3js.org/)
 
+* Images
+ * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
+
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
