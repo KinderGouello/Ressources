@@ -42,6 +42,12 @@ jQuery
 PHP
 ===
 
+* Task Runner
+  * [Envoy](https://www.phptesting.org/)
+  * [Rocketeer](http://rocketeer.autopergamene.eu/)
+  * [Task](http://taskphp.github.io/)
+  * [Robo](http://robo.li/)
+
 * Intégration continue
   * [PHP-CI](https://www.phptesting.org/)
   * [Travis](https://travis-ci.org/)
