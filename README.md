@@ -30,11 +30,11 @@ Javascript
 jQuery
 ======
 
-* Images
- * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
-
 * Datepicker
  * [ClockPicker - Timepicker](http://weareoutman.github.io/clockpicker/)
+
+* Images
+ * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
 
 * Scroll
   * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
