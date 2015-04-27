@@ -67,7 +67,7 @@ PHP
 NodeJS
 =======
 
-* Framwork
+* Framework
   * [Total.js](https://www.totaljs.com/)
 
 Articles
