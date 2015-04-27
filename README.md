@@ -16,6 +16,9 @@ Javascript
 * AngularJS
  * [Lumx, framework avec Material Design](http://ui.lumapps.com/)
 
+* API
+ * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
+
 * Dépendances
  * [Browserify](http://browserify.org/)
 
