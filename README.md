@@ -4,8 +4,9 @@
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [PHP](#php)
-* [Node.js](#node.js)
+* [Node.js](#nodejs)
 * [Articles](#articles)
+* [Livres](#livres)
 
 
 HTML-CSS
@@ -63,7 +64,7 @@ PHP
   * [Robo](http://robo.li/)
   * 
   
-Node.js
+NodeJS
 =======
 
 * Framwork
@@ -72,3 +73,8 @@ Node.js
 Articles
 ========
 
+Livres
+======
+
+* Javascript
+ * [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
