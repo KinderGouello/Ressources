@@ -12,6 +12,10 @@ HTML/CSS
 
 Javascript
 ==========
+
+* AngularJS
+ * [Lumx, framework avec Material Design](http://ui.lumapps.com/)
+
 * Dépendances
  * [Browserify](http://browserify.org/)
 
