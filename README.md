@@ -62,13 +62,18 @@ PHP
   * [Rocketeer](http://rocketeer.autopergamene.eu/)
   * [Task](http://taskphp.github.io/)
   * [Robo](http://robo.li/)
-  * 
   
 NodeJS
 =======
 
 * Framework
   * [Total.js](https://www.totaljs.com/)
+
+Git
+===
+
+* Guide
+  * [Petit guide](http://rogerdudler.github.io/git-guide/index.fr.html)
 
 Articles
 ========
