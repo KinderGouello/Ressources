@@ -5,6 +5,7 @@
 * [jQuery](#jquery)
 * [PHP](#php)
 * [Node.js](#nodejs)
+* [Git](#git)
 * [Articles](#articles)
 * [Livres](#livres)
 
