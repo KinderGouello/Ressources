@@ -69,6 +69,9 @@ NodeJS
 
 * Framework
   * [Total.js](https://www.totaljs.com/)
+  * [Sails.js](http://sailsjs.org/)
+  * [MEAN](http://mean.io/)
+  * [Express](http://expressjs.com/)
 
 Git
 ===
