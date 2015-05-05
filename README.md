@@ -63,6 +63,14 @@ PHP
   * [Rocketeer](http://rocketeer.autopergamene.eu/)
   * [Task](http://taskphp.github.io/)
   * [Robo](http://robo.li/)
+
+* Moteurs de templates
+  * [Smarty](http://www.smarty.net/)
+  * [Twig](http://twig.sensiolabs.org/)
+  * [HAML](https://github.com/arnaud-lb/MtHaml)
+  * [Liquid](https://github.com/harrydeluxe/php-liquid)
+  * [Mustache](http://mustache.github.io/)
+  * [Plates](http://platesphp.com/)
   
 NodeJS
 =======
