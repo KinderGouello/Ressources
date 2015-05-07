@@ -87,6 +87,9 @@ Git
 * Guide
   * [Petit guide](http://rogerdudler.github.io/git-guide/index.fr.html)
 
+* Aides
+  * [FAQ Intéractive](http://ricardofilipe.com/projects/firstaidgit/)
+
 Articles
 ========
 
