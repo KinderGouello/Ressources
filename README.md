@@ -22,6 +22,9 @@ Javascript
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
 
+* Couleurs
+ * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
+
 * Dépendances
  * [Browserify](http://browserify.org/)
 
