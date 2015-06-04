@@ -5,6 +5,7 @@
 * [jQuery](#jquery)
 * [PHP](#php)
 * [Node.js](#nodejs)
+* [Angular.js](#angularjs)
 * [Git](#git)
 * [Articles](#articles)
 * [Livres](#livres)
@@ -83,6 +84,12 @@ NodeJS
   * [Sails.js](http://sailsjs.org/)
   * [MEAN](http://mean.io/)
   * [Express](http://expressjs.com/)
+
+Angular
+=======
+
+* Formulaires
+  * [angular-formly](http://angular-formly.com/#/)
 
 Git
 ===
