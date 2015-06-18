@@ -14,6 +14,9 @@
 HTML-CSS
 ==========
 
+* Guidelines
+ * [CSS Guidelines](http://cssguidelin.es/)
+
 * Editeur
  * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
 
