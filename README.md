@@ -26,6 +26,9 @@ Javascript
 * AngularJS
  * [Lumx, framework avec Material Design](http://ui.lumapps.com/)
 
+* Animations (basées sur la physique)
+ * [Dynamicsjs](http://dynamicsjs.com/)
+
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
 
