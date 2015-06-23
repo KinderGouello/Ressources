@@ -47,6 +47,13 @@ Javascript
 * Images
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
 
+* Scroll
+ * [CSS3 Animate It](http://jackonthe.net/css3animateit/)
+ * [ScrollMagic](http://janpaepke.github.io/ScrollMagic/)
+ * [scrollReveal.js](http://scrollrevealjs.org/)
+ * [skrollr](http://prinzhorn.github.io/skrollr/)
+ * [WOW.js](http://mynameismatthieu.com/WOW/)
+
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
@@ -61,6 +68,7 @@ jQuery
 
 * Scroll
   * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
+  * [SuperScollorama](http://johnpolacek.github.io/superscrollorama/)
 
 PHP
 ===
