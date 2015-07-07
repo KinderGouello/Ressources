@@ -47,6 +47,9 @@ Javascript
 * Images
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
 
+* Réalité augmentée
+ * [Awe.js](https://github.com/buildar/awe.js/tree/master)
+
 * Scroll
  * [CSS3 Animate It](http://jackonthe.net/css3animateit/)
  * [ScrollMagic](http://janpaepke.github.io/ScrollMagic/)
