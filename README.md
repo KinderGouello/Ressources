@@ -47,6 +47,9 @@ Javascript
 * Images
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
 
+* Inspecteur de navigateur
+ * [Vorlon.js](http://vorlonjs.com/) 
+
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
 
