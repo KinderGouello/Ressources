@@ -44,6 +44,9 @@ Javascript
 * Frameworks
  * [T3 - Framework minimaliste](http://t3js.org/)
 
+* Graphiques
+ * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
+
 * Images
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
 
