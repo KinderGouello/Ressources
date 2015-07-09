@@ -66,6 +66,9 @@ Javascript
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
+* Typographie
+ * [Kerning.js, pour améliorer la typographie sur le site](http://kerningjs.com/)
+
 jQuery
 ======
 
