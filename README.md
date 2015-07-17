@@ -132,6 +132,9 @@ Git
 Articles
 ========
 
+* Centrer en CSS
+ * [Centrer avec Sass](http://www.sitepoint.com/centering-with-sass/)
+
 Livres
 ======
 
