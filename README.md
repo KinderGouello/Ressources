@@ -69,6 +69,9 @@ Javascript
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
+* Templating
+ * [Hogan.js](http://twitter.github.io/hogan.js/) 
+
 * Typographie
  * [Kerning.js, pour améliorer la typographie sur le site](http://kerningjs.com/)
 
