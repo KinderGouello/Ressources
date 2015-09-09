@@ -46,6 +46,7 @@ Javascript
 
 * Frameworks
  * [T3 - Framework minimaliste](http://t3js.org/)
+ * [Riot.js - Un React minimaliste](http://riotjs.com/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
