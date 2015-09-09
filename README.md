@@ -45,8 +45,8 @@ Javascript
  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
 
 * Frameworks
- * [T3 - Framework minimaliste](http://t3js.org/)
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
+ * [T3 - Framework minimaliste](http://t3js.org/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
