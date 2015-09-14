@@ -88,6 +88,9 @@ jQuery
 * Images
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
 
+* Lightbox
+ * [Chocolat.js](http://chocolat.insipi.de/)
+
 * Scroll
   * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
   * [SuperScollorama](http://johnpolacek.github.io/superscrollorama/)
