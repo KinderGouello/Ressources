@@ -57,6 +57,7 @@ Javascript
 * Images
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
  * [bLazy.js - Lazy loading à 1KB](https://github.com/dinbror/blazy/)
+ * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
 
 * Inspecteur de navigateur
  * [Vorlon.js](http://vorlonjs.com/) 
