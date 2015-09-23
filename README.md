@@ -38,6 +38,9 @@ Javascript
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
 
+* Carousels
+ * [Slick - Carousel très complet](https://github.com/kenwheeler/slick/)
+
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
