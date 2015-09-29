@@ -59,10 +59,10 @@ Javascript
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
 
 * Images
- * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
  * [bLazy.js - Lazy loading à 1KB](https://github.com/dinbror/blazy/)
- * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
  * [Jimp - Du traitement d'images, sans dépendance](https://github.com/oliver-moran/jimp)
+ * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
+ * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
 
 * Inspecteur de navigateur
  * [Vorlon.js](http://vorlonjs.com/) 
