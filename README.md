@@ -7,6 +7,7 @@
 * [Node.js](#nodejs)
 * [Angular.js](#angularjs)
 * [Git](#git)
+* [Databases](#databases)
 * [Articles](#articles)
 * [Livres](#livres)
 
@@ -151,6 +152,12 @@ Git
 
 * Aides
   * [FAQ Intéractive](http://ricardofilipe.com/projects/firstaidgit/)
+
+Databases
+=========
+
+* DB
+ * [RethinkDB - une base de données pour du realtime](https://github.com/rethinkdb/rethinkdb)
 
 Articles
 ========
