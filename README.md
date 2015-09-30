@@ -6,6 +6,7 @@
 * [PHP](#php)
 * [Node.js](#nodejs)
 * [Angular.js](#angularjs)
+* [Gulp](#gulp)
 * [Git](#git)
 * [Databases](#databases)
 * [Articles](#articles)
@@ -143,6 +144,12 @@ Angular
 
 * Formulaires
   * [angular-formly](http://angular-formly.com/#/)
+
+Gulp
+====
+
+* Outils
+ * [Quench.js, le générateur de fichier Gulp](http://quenchjs.com/)
 
 Git
 ===
