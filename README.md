@@ -7,6 +7,7 @@
 * [Node.js](#nodejs)
 * [Angular.js](#angularjs)
 * [Gulp](#gulp)
+* [SVG](#svg)
 * [Git](#git)
 * [Databases](#databases)
 * [Articles](#articles)
@@ -151,6 +152,12 @@ Gulp
 
 * Outils
  * [Quench.js, le générateur de fichier Gulp](http://quenchjs.com/)
+
+SVG
+===
+
+* Maps
+ * [PixelMap - Générateur de cartes SVG](http://pixelmap.amcharts.com/)
 
 Git
 ===
