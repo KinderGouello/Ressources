@@ -56,6 +56,7 @@ Javascript
 * Frameworks
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
  * [T3 - Framework minimaliste](http://t3js.org/)
+ * [Relay - Un framework pour construire des applications React data-driven](https://facebook.github.io/relay/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
