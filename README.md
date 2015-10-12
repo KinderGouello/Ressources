@@ -75,6 +75,14 @@ Javascript
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
 
+* Recherches
+ * [Fuse.js](http://kiro.me/projects/fuse.html) 
+ * [JS-Search](http://bvaughn.github.io/js-search/)
+ * [Lunr.js](http://lunrjs.com/)
+ * [Jets.js](http://nexts.github.io/Jets.js/)
+ * [List.js](http://www.listjs.com/examples)
+ * [Tipue](http://www.tipue.com/drop/)
+
 * Scroll
  * [CSS3 Animate It](http://jackonthe.net/css3animateit/)
  * [ScrollMagic](http://janpaepke.github.io/ScrollMagic/)
