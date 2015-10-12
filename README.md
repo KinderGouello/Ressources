@@ -10,6 +10,7 @@
 * [SVG](#svg)
 * [Git](#git)
 * [Databases](#databases)
+* [Composer](#composer)
 * [Articles](#articles)
 * [Livres](#livres)
 
@@ -173,6 +174,12 @@ Databases
 
 * DB
  * [RethinkDB - une base de données pour du realtime](https://github.com/rethinkdb/rethinkdb)
+
+Composer
+========
+
+* Générateur de package
+ * [Puli](https://github.com/puli/cli)
 
 Articles
 ========
