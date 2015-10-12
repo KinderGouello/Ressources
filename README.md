@@ -151,6 +151,9 @@ Angular
 Gulp
 ====
 
+* CSS
+ * [CSSNano](http://cssnano.co/) 
+
 * Outils
  * [Quench.js, le générateur de fichier Gulp](http://quenchjs.com/)
 
