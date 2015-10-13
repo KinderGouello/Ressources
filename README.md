@@ -31,6 +31,9 @@ HTML-CSS
 * Préprocesseurs
  * [Rucksack - CSS](http://simplaio.github.io/rucksack/)
 
+* Style-Guide
+ * [Barebones, un générateur de style guide](http://barebones.paulrobertlloyd.com/) 
+
 Javascript
 ==========
 
