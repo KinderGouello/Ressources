@@ -11,6 +11,7 @@
 * [Git](#git)
 * [Databases](#databases)
 * [Composer](#composer)
+* [Inspiration](#inspiration)
 * [Articles](#articles)
 * [Livres](#livres)
 
@@ -194,6 +195,15 @@ Composer
 
 * Générateur de package
  * [Puli](https://github.com/puli/cli)
+
+Inspiration
+===========
+
+* UX
+ * [UI Movement](http://uimovement.com/)
+ * [User Interface](http://userinterfaces.io/)
+ * [UseYourInterface](http://useyourinterface.com/)
+ * [CodePen Patterns](http://codepen.io/patterns/)
 
 Articles
 ========
