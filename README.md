@@ -199,6 +199,9 @@ Composer
 Inspiration
 ===========
 
+* Sites
+ * [Creative tim](http://www.creative-tim.com/)
+
 * UX
  * [UI Movement](http://uimovement.com/)
  * [User Interface](http://userinterfaces.io/)
