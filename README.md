@@ -214,6 +214,10 @@ Articles
 * Centrer en CSS
  * [Centrer avec Sass](http://www.sitepoint.com/centering-with-sass/)
 
+* Front-End
+ * [Manuel sur le Front-end](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
+ 
+
 Livres
 ======
 
