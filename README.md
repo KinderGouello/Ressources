@@ -115,6 +115,7 @@ jQuery
 * Images
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
  * [Unveil, lazy loading](http://luis-almeida.github.io/unveil/)
+ * [LazyLoad-XT, lazy loading](https://github.com/ressio/lazy-load-xt)
 
 * Lightbox
  * [Chocolat.js](http://chocolat.insipi.de/)
