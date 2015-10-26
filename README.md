@@ -117,6 +117,7 @@ jQuery
 
 * Lightbox
  * [Chocolat.js](http://chocolat.insipi.de/)
+ * [Simple lightbox](http://andreknieriem.de/simple-lightbox/)
 
 * Scroll
   * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
