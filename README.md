@@ -156,6 +156,9 @@ NodeJS
   * [Sails.js](http://sailsjs.org/)
   * [MEAN](http://mean.io/)
   * [Express](http://expressjs.com/)
+ 
+* StarterKit
+ * [StarHack.it, basé sur React.js et SQL](http://starhack.it/)
 
 Angular
 =======
