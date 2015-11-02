@@ -178,6 +178,9 @@ Gulp
 SVG
 ===
 
+* Draw
+ * [Segment, une bibliothèque légère](http://lmgonzalves.github.io/segment/) 
+
 * Maps
  * [PixelMap - Générateur de cartes SVG](http://pixelmap.amcharts.com/)
 
