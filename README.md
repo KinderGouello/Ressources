@@ -98,6 +98,7 @@ Javascript
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
 * SVG
+ * [Segment, une bibliothèque légère](http://lmgonzalves.github.io/segment/) 
  * [Snap.js](http://snapsvg.io/)
 
 * Templating
@@ -177,9 +178,6 @@ Gulp
 
 SVG
 ===
-
-* Draw
- * [Segment, une bibliothèque légère](http://lmgonzalves.github.io/segment/) 
 
 * Maps
  * [PixelMap - Générateur de cartes SVG](http://pixelmap.amcharts.com/)
