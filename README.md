@@ -110,6 +110,9 @@ Javascript
 jQuery
 ======
 
+* Confirm
+ * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
+
 * Datepicker
  * [ClockPicker - Timepicker](http://weareoutman.github.io/clockpicker/)
 
