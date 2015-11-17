@@ -125,6 +125,7 @@ jQuery
 
 * Formulaires
  * [Validetta - Validation de formulaire par jQuery](http://lab.hasanaydogdu.com/validetta/) 
+ * [HideShowPassword - Cache ou affiche la saisie d'un mot de passe](https://github.com/cloudfour/hideShowPassword)
 
 * Images
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
