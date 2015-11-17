@@ -50,6 +50,9 @@ Javascript
 * Carousels
  * [Slick - Carousel très complet](https://github.com/kenwheeler/slick/)
 
+* Formulaires
+ * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
+
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
