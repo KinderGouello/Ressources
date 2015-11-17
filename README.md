@@ -113,6 +113,9 @@ jQuery
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
 
+* Formulaires
+ * [Validetta - Validation de formulaire par jQuery](http://lab.hasanaydogdu.com/validetta/) 
+
 * Datepicker
  * [ClockPicker - Timepicker](http://weareoutman.github.io/clockpicker/)
 
