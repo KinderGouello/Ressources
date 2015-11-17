@@ -114,9 +114,6 @@ Javascript
 jQuery
 ======
 
-* Auto-correcteur
- * [jQuery-auto-correct](https://github.com/sanisoft/jQuery-auto-correct) 
-
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
 
@@ -135,6 +132,10 @@ jQuery
 * Lightbox
  * [Chocolat.js](http://chocolat.insipi.de/)
  * [Simple lightbox](http://andreknieriem.de/simple-lightbox/)
+
+* Recherche
+ * [MagicSuggest - Suggestion de recherche](http://nicolasbize.com/magicsuggest/)
+ * [jQuery-auto-correct - Auto correcteur](https://github.com/sanisoft/jQuery-auto-correct) 
 
 * Scroll
   * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
