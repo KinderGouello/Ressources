@@ -61,6 +61,7 @@ Javascript
 
 * Formulaires
  * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
+ * [Card - Validation de carte bancaire](https://github.com/jessepollak/card) 
 
 * Frameworks
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
