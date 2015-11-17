@@ -114,6 +114,9 @@ Javascript
 jQuery
 ======
 
+* Auto-correcteur
+ * [jQuery-auto-correct](https://github.com/sanisoft/jQuery-auto-correct) 
+
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
 
