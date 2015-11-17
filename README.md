@@ -50,9 +50,6 @@ Javascript
 * Carousels
  * [Slick - Carousel très complet](https://github.com/kenwheeler/slick/)
 
-* Formulaires
- * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
-
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
@@ -61,6 +58,9 @@ Javascript
 
 * Drag and Drop
  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
+
+* Formulaires
+ * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
 
 * Frameworks
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
@@ -116,11 +116,11 @@ jQuery
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
 
-* Formulaires
- * [Validetta - Validation de formulaire par jQuery](http://lab.hasanaydogdu.com/validetta/) 
-
 * Datepicker
  * [ClockPicker - Timepicker](http://weareoutman.github.io/clockpicker/)
+
+* Formulaires
+ * [Validetta - Validation de formulaire par jQuery](http://lab.hasanaydogdu.com/validetta/) 
 
 * Images
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
