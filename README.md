@@ -138,8 +138,11 @@ jQuery
  * [jQuery-auto-correct - Auto correcteur](https://github.com/sanisoft/jQuery-auto-correct) 
 
 * Scroll
-  * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
-  * [SuperScollorama](http://johnpolacek.github.io/superscrollorama/)
+ * [ScrollMe - SQL query builder](http://scrollme.nckprsn.com/)
+ * [SuperScollorama](http://johnpolacek.github.io/superscrollorama/)
+
+* Slider
+ * [Unslider - un slider minimaliste](http://unslider.com) 
 
 PHP
 ===
