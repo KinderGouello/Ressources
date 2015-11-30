@@ -90,6 +90,7 @@ Javascript
  * [Jets.js](http://nexts.github.io/Jets.js/)
  * [List.js](http://www.listjs.com/examples)
  * [Tipue](http://www.tipue.com/drop/)
+ * [Miss-Plete, un auto-complete tolérant aux fautes de frappe](https://github.com/xavi/miss-plete)
 
 * Scroll
  * [CSS3 Animate It](http://jackonthe.net/css3animateit/)
