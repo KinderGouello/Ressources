@@ -53,6 +53,9 @@ Javascript
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
+* Crop
+ * [Cropper.js](http://cropperjs.com/)
+
 * Dépendances
  * [Browserify](http://browserify.org/)
 
