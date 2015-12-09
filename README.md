@@ -109,6 +109,7 @@ Javascript
 * SVG
  * [Segment, une bibliothèque légère](http://lmgonzalves.github.io/segment/) 
  * [Snap.js](http://snapsvg.io/)
+ * [Vivus, animer les paths de SVG](http://maxwellito.github.io/vivus/)
 
 * Templating
  * [Hogan.js](http://twitter.github.io/hogan.js/) 
