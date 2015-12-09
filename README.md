@@ -43,6 +43,7 @@ Javascript
 
 * Animations (basées sur la physique)
  * [Dynamicsjs](http://dynamicsjs.com/)
+ * [Popmotion - animations, physiques et inputs tracking](https://popmotion.io/)
 
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
