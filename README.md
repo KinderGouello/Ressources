@@ -71,6 +71,7 @@ Javascript
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
  * [T3 - Framework minimaliste](http://t3js.org/)
  * [Relay - Un framework pour construire des applications React data-driven](https://facebook.github.io/relay/)
+ * [Bliss, un vanillaJs un peu plus facile](http://blissfuljs.com/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
@@ -82,7 +83,10 @@ Javascript
  * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
 
 * Inspecteur de navigateur
- * [Vorlon.js](http://vorlonjs.com/) 
+ * [Vorlon.js](http://vorlonjs.com/)
+
+* Labels
+ * [Labella.js](https://github.com/twitter/labella.js)
 
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
