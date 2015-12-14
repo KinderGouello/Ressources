@@ -157,6 +157,9 @@ jQuery
 PHP
 ===
 
+* Cron
+ * [Cronlingo, un cron parser](https://github.com/ajbdev/cronlingo)
+
 * Intégration continue
   * [PHP-CI](https://www.phptesting.org/)
   * [Travis](https://travis-ci.org/)
