@@ -127,6 +127,9 @@ jQuery
 * Cartes
  * [Kartograph.js, framework pour construire des cartes en SVG](http://kartograph.org/)
  * [Classymap, intégrer une carte Google facilement et rapidement](https://vox.space/files/jquery/classymap/)
+ * [Mapaël, faire des cartes en javascript](http://www.vincentbroute.fr/mapael/) 
+ * [WhatsNearby, une carte avec localisation de lieux proches](http://lagrangemtl.github.io/WhatsNearby/)
+ * [jVectorMap](http://jvectormap.com/)
 
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
