@@ -124,6 +124,10 @@ Javascript
 jQuery
 ======
 
+* Cartes
+ * [Kartograph.js, framework pour construire des cartes en SVG](http://kartograph.org/)
+ * [Classymap, intégrer une carte Google facilement et rapidement](https://vox.space/files/jquery/classymap/)
+
 * Confirm
  * [Bootbox - alert, confirm, modal basé sur Bootstrap](http://bootboxjs.com/)
 
