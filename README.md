@@ -165,6 +165,9 @@ jQuery
 PHP
 ===
 
+* Cartes
+ * [GeoKit, une librairie pour calculer des distances, etc](https://github.com/jsor/geokit) 
+
 * Cron
  * [Cronlingo, un cron parser](https://github.com/ajbdev/cronlingo)
 
