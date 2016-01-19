@@ -95,6 +95,9 @@ Javascript
 * Librairies
  * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether) 
 
+* Notifications
+ * [notie.js](https://github.com/jaredreich/notie.js) 
+
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
 
