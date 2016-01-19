@@ -61,11 +61,19 @@ Javascript
 * Dépendances
  * [Browserify](http://browserify.org/)
 
+* DOM
+ * [Fastdom, accelère la manipulation du DOM](https://github.com/wilsonpage/fastdom)
+ * [Vue.js](http://vuejs.org/)
+ * [Ractive](https://github.com/ractivejs/ractive)
+ * [Rivets.js](http://rivetsjs.com/)
+ * [Feature.js, détecte les fonctionnalités disponibles pour la page](http://featurejs.com/)
+ * [Modernizr, détecte les fonctionnalités disponibles pour la page](http://featurejs.com/)
+
 * Drag and Drop
  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
 
 * Dropdown
- * [Drop.js](https://github.com/HubSpot/drop) 
+ * [Drop.js](https://github.com/HubSpot/drop)
 
 * Formulaires
  * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
@@ -109,6 +117,10 @@ Javascript
  * [List.js](http://www.listjs.com/examples)
  * [Tipue](http://www.tipue.com/drop/)
  * [Miss-Plete, un auto-complete tolérant aux fautes de frappe](https://github.com/xavi/miss-plete)
+
+* Scrapper
+ * [Nightmare.js](http://www.nightmarejs.org/)
+ * [x-ray](https://github.com/lapwinglabs/x-ray)
 
 * Scroll
  * [CSS3 Animate It](http://jackonthe.net/css3animateit/)
