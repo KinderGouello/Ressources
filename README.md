@@ -122,6 +122,9 @@ Javascript
 * Typographie
  * [Kerning.js, pour améliorer la typographie sur le site](http://kerningjs.com/)
 
+* Touch
+ * [Hammer.js, détection des doigts sur smartphone](http://hammerjs.github.io/) 
+
 jQuery
 ======
 
