@@ -64,6 +64,9 @@ Javascript
 * Drag and Drop
  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
 
+* Dropdown
+ * [Drop.js](https://github.com/HubSpot/drop) 
+
 * Formulaires
  * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
  * [Card - Validation de carte bancaire](https://github.com/jessepollak/card) 
