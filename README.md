@@ -92,6 +92,9 @@ Javascript
 * Labels
  * [Labella.js](https://github.com/twitter/labella.js)
 
+* Librairies
+ * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether) 
+
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
 
