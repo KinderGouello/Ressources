@@ -93,6 +93,7 @@ Javascript
  * [Jimp - Du traitement d'images, sans dépendance](https://github.com/oliver-moran/jimp)
  * [Layzr.js - Lazy loading pour les images](http://callmecavs.github.io/layzr.js/)
  * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
+ * [Drift, pour avoir un zoom sur les images](https://github.com/imgix/drift)
 
 * Inspecteur de navigateur
  * [Vorlon.js](http://vorlonjs.com/)
