@@ -34,7 +34,10 @@ HTML-CSS
  * [Rucksack - CSS](http://simplaio.github.io/rucksack/)
 
 * Style-Guide
- * [Barebones, un générateur de style guide](http://barebones.paulrobertlloyd.com/) 
+ * [Barebones, un générateur de style guide](http://barebones.paulrobertlloyd.com/)
+
+* Tooltips
+ * [Hint.css, des tooltips en pure css](http://kushagragour.in/lab/hint/) 
 
 Javascript
 ==========
