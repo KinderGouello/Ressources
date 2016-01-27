@@ -84,6 +84,7 @@ Javascript
  * [T3 - Framework minimaliste](http://t3js.org/)
  * [Relay - Un framework pour construire des applications React data-driven](https://facebook.github.io/relay/)
  * [Bliss, un vanillaJs un peu plus facile](http://blissfuljs.com/)
+ * [Umbrella.js, un jQuery light](http://umbrellajs.com/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
