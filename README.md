@@ -137,6 +137,9 @@ Javascript
  * [skrollr](http://prinzhorn.github.io/skrollr/)
  * [WOW.js](http://mynameismatthieu.com/WOW/)
 
+* Sons
+ * [Loudlinks, une librairie légère pour intégrer des sons](http://loudlinks.rocks/)
+
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
 
