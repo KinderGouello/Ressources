@@ -42,6 +42,9 @@ HTML-CSS
 Javascript
 ==========
 
+* 3D
+ * [Voxel.css, une librairie 3D](https://github.com/HunterLarco/voxel.css)
+
 * AngularJS
  * [Lumx, framework avec Material Design](http://ui.lumapps.com/)
 
