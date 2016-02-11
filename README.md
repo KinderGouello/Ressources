@@ -19,6 +19,10 @@
 HTML-CSS
 ==========
 
+* Editeur
+ * [ContentTools](https://github.com/GetmeUK/ContentTools)
+ * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
+
 * Frameworks
  * [Semantic UI](http://semantic-ui.com/)
  * [Milligram, un framework minimaliste](http://milligram.github.io/index.html)
@@ -26,9 +30,8 @@ HTML-CSS
 * Guidelines
  * [CSS Guidelines](http://cssguidelin.es/)
 
-* Editeur
- * [ContentTools](https://github.com/GetmeUK/ContentTools)
- * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
+* Icones
+ * [SVG Icons](http://svgicons.sparkk.fr/)
 
 * Préprocesseurs
  * [Rucksack - CSS](http://simplaio.github.io/rucksack/)
