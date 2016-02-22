@@ -55,6 +55,9 @@ Javascript
  * [Dynamicsjs](http://dynamicsjs.com/)
  * [Popmotion - animations, physiques et inputs tracking](https://popmotion.io/)
 
+* Animations
+ * [Pressure.js, pour catcher la pression d'une touche sur smartphone](http://pressurejs.com/) 
+
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
 
