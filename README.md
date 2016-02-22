@@ -111,6 +111,9 @@ Javascript
 * Labels
  * [Labella.js](https://github.com/twitter/labella.js)
 
+* Layout
+ * [Bricks.js](http://callmecavs.com/bricks.js/)
+
 * Librairies
  * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether) 
 
