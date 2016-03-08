@@ -89,7 +89,8 @@ Javascript
 
 * Formulaires
  * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
- * [Card - Validation de carte bancaire](https://github.com/jessepollak/card) 
+ * [Card - Validation de carte bancaire](https://github.com/jessepollak/card)
+ * [Superplaceholder, créer des placeholder dynamiques](http://kushagragour.in/lab/superplaceholderjs/)
 
 * Frameworks
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
@@ -204,7 +205,14 @@ jQuery
  * [SuperScollorama](http://johnpolacek.github.io/superscrollorama/)
 
 * Slider
- * [Unslider - un slider minimaliste](http://unslider.com) 
+ * [Unslider - un slider minimaliste](http://unslider.com)
+
+* Texte
+ * [Readable, adapte le texte pour une meilleure lecture](http://mds.sh/readable/)
+ * [Textfill, adapate le texte à une div](http://jquery-textfill.github.io/)
+ * [TypeIt, écriture de texte automatique](http://macarthur.me/typeit/)
+ * [vTicker, changement de texte automatique](http://richhollis.github.io/vticker/)
+ * [jQuery Super Easy Texte Rotator, changement de texte automatique](http://www.thepetedesign.com/demos/jquery_super_simple_text_rotator_demo.html)
 
 PHP
 ===
