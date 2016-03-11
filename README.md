@@ -213,6 +213,7 @@ jQuery
  * [TypeIt, écriture de texte automatique](http://macarthur.me/typeit/)
  * [vTicker, changement de texte automatique](http://richhollis.github.io/vticker/)
  * [jQuery Super Easy Texte Rotator, changement de texte automatique](http://www.thepetedesign.com/demos/jquery_super_simple_text_rotator_demo.html)
+ * [Marginotes, pour afficher des notes à côtés de paragraphes](https://github.com/fdansv/marginotes)
 
 PHP
 ===
