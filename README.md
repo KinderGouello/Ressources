@@ -321,6 +321,9 @@ Articles
 
 * Front-End
  * [Manuel sur le Front-end](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
+
+* Images
+ * [Styliser les images manquantes](http://bitsofco.de/styling-broken-images/) 
  
 
 Livres
