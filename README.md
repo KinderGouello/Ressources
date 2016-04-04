@@ -19,6 +19,9 @@
 HTML-CSS
 ==========
 
+* Animations
+ * [Repaintless, des animations en classes CSS pour éviter le paint dans nivagateurs](https://github.com/szynszyliszys/repaintless) 
+
 * Editeur
  * [ContentTools](https://github.com/GetmeUK/ContentTools)
  * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
