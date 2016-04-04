@@ -64,6 +64,9 @@ Javascript
 * Carousels
  * [Slick - Carousel très complet](https://github.com/kenwheeler/slick/)
 
+* Chargement
+ * [PACE](http://github.hubspot.com/pace/docs/welcome/)
+
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
