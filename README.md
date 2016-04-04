@@ -117,9 +117,13 @@ Javascript
 
 * Layout
  * [Bricks.js](http://callmecavs.com/bricks.js/)
+ * [Responsify.space](http://responsifyjs.space/)
 
 * Librairies
  * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether) 
+
+* Navigation
+ * [okayNav](https://github.com/VPenkov/okayNav)
 
 * Notifications
  * [notie.js](https://github.com/jaredreich/notie.js) 
