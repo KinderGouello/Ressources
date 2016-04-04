@@ -109,6 +109,9 @@ Javascript
  * [PhotoSwipe.js - Galerie d'images](https://github.com/dimsemenov/PhotoSwipe)
  * [Drift, pour avoir un zoom sur les images](https://github.com/imgix/drift)
 
+* Lightbox
+ * [PhotoSwipe](http://photoswipe.com/)
+
 * Inspecteur de navigateur
  * [Vorlon.js](http://vorlonjs.com/)
 
@@ -124,6 +127,7 @@ Javascript
 
 * Navigation
  * [okayNav](https://github.com/VPenkov/okayNav)
+ * [jQuerySecretNav](http://jachinte.github.io/jquery.secretnav/index2.html)
 
 * Notifications
  * [notie.js](https://github.com/jaredreich/notie.js) 
@@ -195,11 +199,13 @@ jQuery
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
  * [Unveil, lazy loading](http://luis-almeida.github.io/unveil/)
  * [LazyLoad-XT, lazy loading](https://github.com/ressio/lazy-load-xt)
+ * [TwentyTwenty, pour comparer 2 images](http://zurb.com/playground/twentytwenty)
 
 * Lightbox
  * [Chocolat.js](http://chocolat.insipi.de/)
  * [Simple lightbox](http://andreknieriem.de/simple-lightbox/)
-
+ * [LightGallery](http://sachinchoolur.github.io/lightGallery/index.html)
+ 
 * Recherche
  * [MagicSuggest - Suggestion de recherche](http://nicolasbize.com/magicsuggest/)
  * [jQuery-auto-correct - Auto correcteur](https://github.com/sanisoft/jQuery-auto-correct) 
@@ -218,6 +224,9 @@ jQuery
  * [vTicker, changement de texte automatique](http://richhollis.github.io/vticker/)
  * [jQuery Super Easy Texte Rotator, changement de texte automatique](http://www.thepetedesign.com/demos/jquery_super_simple_text_rotator_demo.html)
  * [Marginotes, pour afficher des notes à côtés de paragraphes](https://github.com/fdansv/marginotes)
+
+* Video
+ * [jQueryVideoExtend, pour customiser son player vidéo](http://andchir.github.io/jquery-video-extend/) 
 
 PHP
 ===
