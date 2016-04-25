@@ -129,7 +129,10 @@ Javascript
  * [Responsify.space](http://responsifyjs.space/)
 
 * Librairies
- * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether) 
+ * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether)
+
+* Modals
+ * [Modaal](http://www.humaan.com/modaal/)
 
 * Navigation
  * [okayNav](https://github.com/VPenkov/okayNav)
