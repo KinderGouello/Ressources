@@ -139,7 +139,10 @@ Javascript
  * [jQuerySecretNav](http://jachinte.github.io/jquery.secretnav/index2.html)
 
 * Notifications
- * [notie.js](https://github.com/jaredreich/notie.js) 
+ * [notie.js](https://github.com/jaredreich/notie.js)
+
+* Prédictions
+ * [Trial.js, prédire où l'utilisateur va cliquer](http://markocen.github.io/trialjs/trial-js.html)
 
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
