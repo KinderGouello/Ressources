@@ -36,6 +36,9 @@ HTML-CSS
 * Icones
  * [SVG Icons](http://svgicons.sparkk.fr/)
 
+* Mixins
+ * [Family.scss, des mixins pour les nth-child](http://lukyvj.github.io/family.scss/) 
+
 * Préprocesseurs
  * [Rucksack - CSS](http://simplaio.github.io/rucksack/)
 
