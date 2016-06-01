@@ -208,6 +208,7 @@ jQuery
 
 * Datepicker
  * [ClockPicker - Timepicker](http://weareoutman.github.io/clockpicker/)
+ * [Timedropper - Un jQuery time plugin](http://felicegattuso.com/projects/timedropper/)
 
 * Formulaires
  * [Validetta - Validation de formulaire par jQuery](http://lab.hasanaydogdu.com/validetta/) 
