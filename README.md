@@ -268,6 +268,9 @@ PHP
   * [Liquid](https://github.com/harrydeluxe/php-liquid)
   * [Mustache](http://mustache.github.io/)
   * [Plates](http://platesphp.com/)
+ 
+* Recherche
+ * [Searcher](https://github.com/krzysztof-gzocha/searcher) 
 
 * Task Runner
   * [Envoy](https://www.phptesting.org/)
