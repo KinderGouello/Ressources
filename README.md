@@ -191,7 +191,10 @@ Javascript
  * [Popper.js](https://popper.js.org/) 
 
 * Touch
- * [Hammer.js, détection des doigts sur smartphone](http://hammerjs.github.io/) 
+ * [Hammer.js, détection des doigts sur smartphone](http://hammerjs.github.io/)
+
+* Transitions
+ * [Barba.js, faire des transitions entre les pages](http://barbajs.org/index.html)
 
 jQuery
 ======
