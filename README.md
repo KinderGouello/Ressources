@@ -4,6 +4,7 @@
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [PHP](#php)
+* [Hybride](#hybride)
 * [Node.js](#nodejs)
 * [Angular.js](#angularjs)
 * [Gulp](#gulp)
@@ -286,6 +287,13 @@ PHP
 
 * Testing
  * [Codeception - Framwork de testing](http://codeception.com/)
+
+Hybride
+=======
+
+* Framework
+ * [Ignite](https://github.com/infinitered/ignite)
+ * [Ionic](https://github.com/driftyco/ionic)
   
 NodeJS
 =======
