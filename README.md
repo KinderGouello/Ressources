@@ -29,6 +29,7 @@ HTML-CSS
 * Frameworks
  * [Semantic UI](http://semantic-ui.com/)
  * [Milligram, un framework minimaliste](http://milligram.github.io/index.html)
+ * [Picnicss](http://picnicss.com/#content)
 
 * Guidelines
  * [CSS Guidelines](http://cssguidelin.es/)
