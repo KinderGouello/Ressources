@@ -160,6 +160,7 @@ Javascript
  * [List.js](http://www.listjs.com/examples)
  * [Tipue](http://www.tipue.com/drop/)
  * [Miss-Plete, un auto-complete tolérant aux fautes de frappe](https://github.com/xavi/miss-plete)
+ * [Holmes, recherche de mots dans une page](https://haroen.me/holmes/)
 
 * Scrapper
  * [Nightmare.js](http://www.nightmarejs.org/)
