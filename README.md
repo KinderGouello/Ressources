@@ -24,6 +24,9 @@ HTML-CSS
 * Animations
  * [Repaintless, des animations en classes CSS pour éviter le paint dans nivagateurs](https://github.com/szynszyliszys/repaintless) 
 
+* Checkbox
+ * [Switch, des checkbox version iOS](https://weatherstar.me/Switch/) 
+
 * Editeur
  * [ContentTools](https://github.com/GetmeUK/ContentTools)
  * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
@@ -149,6 +152,7 @@ Javascript
 
 * Prédictions
  * [Trial.js, prédire où l'utilisateur va cliquer](http://markocen.github.io/trialjs/trial-js.html)
+ * [is.js, librairie de prédiction minimaliste](https://github.com/pwnn/is.js)
 
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
