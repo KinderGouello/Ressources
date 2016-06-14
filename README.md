@@ -15,6 +15,7 @@
 * [Inspiration](#inspiration)
 * [Articles](#articles)
 * [Livres](#livres)
+* [Autres](#autres)
 
 
 HTML-CSS
@@ -380,3 +381,9 @@ Livres
 
 * Javascript
  * [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+Autres
+======
+
+* Data visualisation
+ * [Datamaps.co](https://datamaps.co/)
