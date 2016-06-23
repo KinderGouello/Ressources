@@ -85,6 +85,9 @@ Javascript
 * Crop
  * [Cropper.js](http://cropperjs.com/)
 
+* Datetimepicker
+ * [Flatpickr](https://chmln.github.io/flatpickr/)
+
 * Dépendances
  * [Browserify](http://browserify.org/)
 
