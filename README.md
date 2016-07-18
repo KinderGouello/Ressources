@@ -364,6 +364,7 @@ Inspiration
 
 * Sites
  * [Creative tim](http://www.creative-tim.com/)
+ * [Theme Material Design](http://ct-freebies.herokuapp.com/material-kit/index.html)
 
 * UX
  * [UI Movement](http://uimovement.com/)
