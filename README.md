@@ -397,3 +397,6 @@ Autres
 
 * Data visualisation
  * [Datamaps.co](https://datamaps.co/)
+
+* Services workers
+ * [Liste](https://github.com/TalAter/awesome-service-workers) 
