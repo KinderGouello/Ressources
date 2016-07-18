@@ -371,6 +371,7 @@ Inspiration
  * [User Interface](http://userinterfaces.io/)
  * [UseYourInterface](http://useyourinterface.com/)
  * [CodePen Patterns](http://codepen.io/patterns/)
+ * [Navigation Auto-hiding](https://codyhouse.co/demo/auto-hiding-navigation/nav-hero-subnav.html)
 
 Articles
 ========
