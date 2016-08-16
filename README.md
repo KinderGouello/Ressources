@@ -161,6 +161,9 @@ Javascript
 * Réalité augmentée
  * [Awe.js](https://github.com/buildar/awe.js/tree/master)
 
+* Responsive
+ * [SuperEmbed.js, librairie pour des vidéos responsives](https://github.com/corbindavenport/superembed.js) 
+
 * Recherches
  * [Fuse.js](http://kiro.me/projects/fuse.html) 
  * [JS-Search](http://bvaughn.github.io/js-search/)
