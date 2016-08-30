@@ -184,6 +184,7 @@ Javascript
  * [scrollReveal.js](http://scrollrevealjs.org/)
  * [skrollr](http://prinzhorn.github.io/skrollr/)
  * [WOW.js](http://mynameismatthieu.com/WOW/)
+ * [inView](https://camwiegert.github.io/in-view/)
 
 * Sons
  * [Loudlinks, une librairie légère pour intégrer des sons](http://loudlinks.rocks/)
