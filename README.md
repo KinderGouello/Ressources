@@ -154,6 +154,15 @@ Javascript
 * Notifications
  * [notie.js](https://github.com/jaredreich/notie.js)
 
+* Offline
+ * [Offline.js](http://github.hubspot.com/offline/docs/welcome/) 
+
+* Optimisations
+ * [Instantclick, charger une page en avance en anticipant les actions](http://instantclick.io/)
+ * [Orbit, pour fusionner les base de données (data-store)](https://github.com/orbitjs/orbit-core)
+ * [Freedom.js, faire du peer-to-peer](http://www.freedomjs.org/)
+ * [Pegasus.js, pour accélérer le chargement des JS](https://github.com/typicode/pegasus)
+
 * Prédictions
  * [Trial.js, prédire où l'utilisateur va cliquer](http://markocen.github.io/trialjs/trial-js.html)
  * [is.js, librairie de prédiction minimaliste](https://github.com/pwnn/is.js)
@@ -237,6 +246,7 @@ jQuery
  * [imgLiquid - Images responsives](https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html)
  * [Unveil, lazy loading](http://luis-almeida.github.io/unveil/)
  * [LazyLoad-XT, lazy loading](https://github.com/ressio/lazy-load-xt)
+ * [Lazyloading pour images](https://vvo.github.io/lazyload/)
  * [TwentyTwenty, pour comparer 2 images](http://zurb.com/playground/twentytwenty)
 
 * Lightbox
