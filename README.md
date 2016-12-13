@@ -83,6 +83,9 @@ Javascript
 * Chargement
  * [PACE](http://github.hubspot.com/pace/docs/welcome/)
 
+* Checkbox
+ * [Labelauty, pour changer l'aspect des checkbox](http://labelauty.js.org/)
+
 * Couleurs
  * [Vibrant.js, extraire couleurs dominantes](https://jariz.github.io/vibrant.js)
 
@@ -122,6 +125,7 @@ Javascript
  * [Relay - Un framework pour construire des applications React data-driven](https://facebook.github.io/relay/)
  * [Bliss, un vanillaJs un peu plus facile](http://blissfuljs.com/)
  * [Umbrella.js, un jQuery light](http://umbrellajs.com/)
+ * [SuperDom, manipulation du DOM à l'instar de jQuery](https://superdom.site/)
 
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
