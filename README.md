@@ -22,7 +22,7 @@ HTML-CSS
 ==========
 
 * Animations
- * [Repaintless, des animations en classes CSS pour éviter le paint dans nivagateurs](https://github.com/szynszyliszys/repaintless) 
+ * [Repaintless, des animations en classes CSS pour éviter le paint dans nivagateurs](https://github.com/szynszyliszys/repaintless)
 
 * Checkbox
  * [Switch, des checkbox version iOS](https://weatherstar.me/Switch/) 
@@ -41,6 +41,9 @@ HTML-CSS
 
 * Icones
  * [SVG Icons](http://svgicons.sparkk.fr/)
+
+* Loader
+ * [CSSPin](https://webkul.github.io/csspin/)
 
 * Mixins
  * [Family.scss, des mixins pour les nth-child](http://lukyvj.github.io/family.scss/) 
@@ -110,6 +113,8 @@ Javascript
  * [Skeuocard - Validation de carte bancaire](http://kenkeiter.com/skeuocard/) 
  * [Card - Validation de carte bancaire](https://github.com/jessepollak/card)
  * [Superplaceholder, créer des placeholder dynamiques](http://kushagragour.in/lab/superplaceholderjs/)
+ * [Card, formulaire pour carte de crédit](https://jessepollak.github.io/card/)
+ * [ConversationalForm, remplace les formulaires en chatbot](https://space10-community.github.io/conversational-form/)
 
 * Frameworks
  * [Riot.js - Un React minimaliste](http://riotjs.com/)
