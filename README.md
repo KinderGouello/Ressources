@@ -105,6 +105,7 @@ Javascript
  * [Rivets.js](http://rivetsjs.com/)
  * [Feature.js, détecte les fonctionnalités disponibles pour la page](http://featurejs.com/)
  * [Modernizr, détecte les fonctionnalités disponibles pour la page](http://featurejs.com/)
+ * [Crel, manipulation du DOM](https://github.com/KoryNunn/crel)
 
 * Drag and Drop
  * [Dragula - Drag & Drop easy](http://bevacqua.github.io/dragula/)
@@ -152,6 +153,9 @@ Javascript
 
 * Librairies
  * [Teher, librairie javascript sur le positionnement](https://github.com/HubSpot/tether)
+ 
+* Maths
+ * [MathJS, parsing de mathématiques, etc](https://github.com/josdejong/mathjs) 
 
 * Modals
  * [Modaal](http://www.humaan.com/modaal/)
@@ -209,11 +213,17 @@ Javascript
 
 * SQL
  * [Knex.js - SQL query builder](http://knexjs.org/)
+ 
+* String
+ * [Voca, manipulation de strings](https://github.com/panzerdp/voca) 
 
 * SVG
  * [Segment, une bibliothèque légère](http://lmgonzalves.github.io/segment/) 
  * [Snap.js](http://snapsvg.io/)
  * [Vivus, animer les paths de SVG](http://maxwellito.github.io/vivus/)
+
+* Tableaux
+ * [Array, manipulation de tableaux (plus maintenu)](https://github.com/MatthewMueller/array) 
 
 * Templating
  * [Hogan.js](http://twitter.github.io/hogan.js/) 
