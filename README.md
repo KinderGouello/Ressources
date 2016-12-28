@@ -227,6 +227,10 @@ Javascript
 
 * Templating
  * [Hogan.js](http://twitter.github.io/hogan.js/) 
+ 
+* Tutoriels
+ * [Javascript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+ * [Es6 stylesheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 * Typographie
  * [Kerning.js, pour améliorer la typographie sur le site](http://kerningjs.com/)
