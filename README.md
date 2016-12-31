@@ -25,16 +25,16 @@ HTML-CSS
  * [Repaintless, des animations en classes CSS pour éviter le paint dans nivagateurs](https://github.com/szynszyliszys/repaintless)
 
 * Checkbox
- * [Switch, des checkbox version iOS](https://weatherstar.me/Switch/) 
+ * [Switch, des checkbox version iOS](https://github.com/zhiyul/Switch) 
 
 * Editeur
  * [ContentTools](https://github.com/GetmeUK/ContentTools)
- * [Woofmark, un éditeur HTML et Markdown](http://bevacqua.github.io/woofmark/)
+ * [Woofmark, un éditeur HTML et Markdown](https://github.com/bevacqua/woofmark)
 
 * Frameworks
- * [Semantic UI](http://semantic-ui.com/)
- * [Milligram, un framework minimaliste](http://milligram.github.io/index.html)
- * [Picnicss](http://picnicss.com/#content)
+ * [Semantic UI](https://github.com/Semantic-Org/Semantic-UI)
+ * [Milligram, un framework minimaliste](https://github.com/milligram/milligram)
+ * [Picnicss](https://github.com/picnicss/picnic)
 
 * Guidelines
  * [CSS Guidelines](http://cssguidelin.es/)
@@ -43,19 +43,19 @@ HTML-CSS
  * [SVG Icons](http://svgicons.sparkk.fr/)
 
 * Loader
- * [CSSPin](https://webkul.github.io/csspin/)
+ * [CSSPin](https://github.com/webkul/csspin)
 
 * Mixins
- * [Family.scss, des mixins pour les nth-child](http://lukyvj.github.io/family.scss/) 
+ * [Family.scss, des mixins pour les nth-child](https://github.com/LukyVj/family.scss) 
 
 * Préprocesseurs
- * [Rucksack - CSS](http://simplaio.github.io/rucksack/)
+ * [Rucksack - CSS](https://github.com/simplaio/rucksack)
 
 * Style-Guide
- * [Barebones, un générateur de style guide](http://barebones.paulrobertlloyd.com/)
+ * [Barebones, un générateur de style guide](https://github.com/paulrobertlloyd/barebones)
 
 * Tooltips
- * [Hint.css, des tooltips en pure css](http://kushagragour.in/lab/hint/) 
+ * [Hint.css, des tooltips en pure css](https://github.com/chinchang/hint.css) 
 
 Javascript
 ==========
