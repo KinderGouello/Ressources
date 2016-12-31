@@ -181,7 +181,7 @@ Javascript
  * [is.js, librairie de prédiction minimaliste](https://github.com/pwnn/is.js)
 
 * Réalité augmentée
- * [Awe.js](https://github.com/buildar/awe.js/tree/master)
+ * [Awe.js](https://github.com/buildar/awe.js)
 
 * Responsive
  * [SuperEmbed.js, librairie pour des vidéos responsives](https://github.com/corbindavenport/superembed.js) 
