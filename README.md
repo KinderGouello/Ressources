@@ -128,6 +128,9 @@ Javascript
  * [Umbrella.js, un jQuery light](http://umbrellajs.com/)
  * [SuperDom, manipulation du DOM à l'instar de jQuery](https://superdom.site/)
 
+* Events
+ * [Mitt, event emitter | pubsub](https://github.com/developit/mitt)
+
 * Graphiques
  * [Cola.js, pour des graphiques basés sur les contraintes du navigateur](http://marvl.infotech.monash.edu/webcola/) 
 
