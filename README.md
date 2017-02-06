@@ -72,7 +72,8 @@ Javascript
  * [Anime.js](https://github.com/juliangarnier/anime)
 
 * Animations
- * [Pressure.js, pour catcher la pression d'une touche sur smartphone](http://pressurejs.com/) 
+ * [Pressure.js, pour catcher la pression d'une touche sur smartphone](http://pressurejs.com/)
+ * [Lottie, animation after effects](https://github.com/airbnb/lottie-react-native)
 
 * API
  * [JSON Generator, pour générer des données aléatoire](http://www.json-generator.com/)
