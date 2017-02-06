@@ -163,6 +163,11 @@ Javascript
 
 * Modals
  * [Modaal](http://www.humaan.com/modaal/)
+ 
+* Module Bundler
+ * [Rollup](https://github.com/rollup/rollup)
+ * [Webpack](https://webpack.github.io/docs/)
+ * [Browserify](http://browserify.org/)
 
 * Navigation
  * [okayNav](https://github.com/VPenkov/okayNav)
